@@ -5,5 +5,8 @@
  		"duke_nukem/duke-1.mp3",
  		"duke_nukem/duke-2.mp3",   
  		"duke_nukem/duke-3.mp3"
- 	]
+ 	],
+ 	"airhorn": [
+ 		"airhorn/airhorn.wav"
+ 	] 
  }
