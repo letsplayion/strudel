@@ -1,9 +1,8 @@
 {
- 	"_base": "https://raw.githubusercontent.com/letsplayion/strudel/main/",
- 	"duke_nukem": [
- 	   	"duke_nukem/808-boom.mp3",
-      "duke_nukem/duke-1.mp3",
-      "duke_nukem/duke-2.mp3",
-      "duke_nukem/duke-3.mp3"   
+ 	"_base": "https://raw.githubusercontent.com/todepond/spicule/main/extra-samples/",
+ 	"acid": [
+ 		"acid/01.wav",
+ 		"acid/02.wav",
+ 		"acid/03.wav"
  	]
  }
