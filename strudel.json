@@ -1,7 +1,7 @@
 {
- 	"_base": "https://raw.githubusercontent.com/todepond/spicule/main/extra-samples/",
- 	"acid": [
- 		"acid/01.wav",
+ 	"_base": "https://raw.githubusercontent.com/letsplayion/main/",
+ 	"duke_nukem": [
+ 		"duke_nukem/duke_nukem/808-boom.mp3",
  		"acid/02.wav",
  		"acid/03.wav"
  	]
