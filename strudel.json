@@ -1,12 +1,12 @@
 {
- 	"_base": "https://raw.githubusercontent.com/letsplayion/strudel/",
- 	"duke_nukem": [
- 		"duke_nukem/duke_nukem/808-boom.mp3",
- 		"duke_nukem/duke-1.mp3",
- 		"duke_nukem/duke-2.mp3",   
- 		"duke_nukem/duke-3.mp3"
- 	],
- 	"airhorn": [
- 		"airhorn/airhorn.wav"
- 	] 
- }
+  "_base": "https://githubusercontent.com",
+  "duke_nukem": [
+    "duke_nukem/808-boom.mp3",
+    "duke_nukem/duke-1.mp3",
+    "duke_nukem/duke-2.mp3",
+    "duke_nukem/duke-3.mp3"
+  ],
+  "airhorn": [
+    "airhorn/airhorn.wav"
+  ]
+}
